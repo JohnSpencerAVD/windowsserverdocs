@@ -233,4 +233,4 @@ The Remote Desktop for Android client uses standard touch gestures. You can also
 
 If you want to help us test new builds or find issues in upcoming version updates before they're released, you should join our Beta channel. Enterprise admins can use the Beta channel to validate new versions of the Android client for their users.
 
-To join the Beta, [download our Beta client](https://play.google.com/apps/testing/com.microsoft.rdc.androidx) and give consent to access preview versions and download the client. You'll receive preview versions directly through the Google Play Store.
+To join the Beta, [download our Beta client](https://play.google.com/apps/testing/com.microsoft.rdc.androidx) and give consent to access preview versions and download the client. You'll receive preview versions through the Google Play Store.
