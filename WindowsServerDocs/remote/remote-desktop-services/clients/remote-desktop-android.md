@@ -24,6 +24,7 @@ This article will show you how to get started using the client. If you have any 
 
 ## Download the Remote Desktop client
 
+
 Here's how to set up the Remote Desktop client on your Android device:
 
 1. [Download the Microsoft Remote Desktop client](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) from Google Play.
